@@ -81,3 +81,5 @@ Trage deinen steam_webApiKey in die server.cfg ein
 
 6.
 Importiere die ESXLegacy_FAF92E-sql aus dem [SQL] Ordner per phpmyadmin in deine Datenbank
+
+wünsche euch viel spass
